@@ -1,0 +1,133 @@
+.navbar-brand img{
+    width: 200px;
+}
+.bg-green{
+    background-color: #F0FFF0;
+}
+.green-btn{
+    background-color: #21B573;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+}
+.learn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.red-text{
+    color: #FD511A;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+.bold-black-poppins{
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+.big-text-green{
+    color: #21B573;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+.normal-text{
+    color: #6C6B6B;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+.learn-anything{
+    color: #585859;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+.pic-learn-any{
+    height: 85px;
+    width: 66px;
+}
+.learn-any-headline{
+    color: #413960;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+}
+.learn-any-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    width: 270px;
+    background-color: #F8FFFB
+}
+.learn-any-dif-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    width: 270px;
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgray;
+}
+.online-course{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.card img{
+    padding: 15px;
+}
+.card-title{
+    color: #413960;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: medium;
+}
+.card-text{
+    color: #585859;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+.fix-margin{
+    margin-left: -10px;
+}
+.testi-img{
+    height: 120px;
+    width: 120px;
+}
+.footer-bg{
+    background-color: #282531;
+}
+.footer-text{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+.footer-row h3{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.footer-row h6{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+}
+footer p{
+    color: #CDCDCD;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+
+}
+    
