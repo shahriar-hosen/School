@@ -61,7 +61,8 @@
     align-items: center;
     height: 200px;
     width: auto;
-    background-color: #F8FFFB
+    background-color: #F8FFFB;
+    margin-top: 15px;
 }
 .learn-any-dif-box{
     display: flex;
@@ -72,6 +73,7 @@
     width: auto;
     background-color: white;
     box-shadow: 5px 5px 30px lightgray;
+    margin-top: 15px;
 }
 .online-course{
     text-align: center;
