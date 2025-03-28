@@ -59,8 +59,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 270px;
-    width: 270px;
+    height: 200px;
+    width: auto;
     background-color: #F8FFFB
 }
 .learn-any-dif-box{
@@ -68,8 +68,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 270px;
-    width: 270px;
+    height: 200px;
+    width: auto;
     background-color: white;
     box-shadow: 5px 5px 30px lightgray;
 }
@@ -130,4 +130,3 @@ footer p{
     font-size: 16px;
 
 }
-    
